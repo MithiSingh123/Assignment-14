@@ -1,0 +1,16 @@
+.one{
+border: 40px aquamarine groove;
+text-align: center;
+background-color: yellowgreen;
+}
+.one img{
+    border: 10px red dashed;
+    border-radius: 40px;
+    width: 300px;
+    height: 300px;
+
+}
+.one p{
+    border: 10px double green;
+
+}
